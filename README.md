@@ -1,6 +1,7 @@
-# Projeto de extensão
+# Projeto de extensão 
 
-## Encontro 1/02 9:00 
+## Encontro 1/02 9:00 até 11:20. Sábado.
+
 - Tem que ter **envolvimento com a comunidade externa**;
 - Primeiro tem que ter a **validação do projeto pelo orientador**;
 - Escolher uma **persona** é essencial;
@@ -12,3 +13,5 @@
 > O que é o termo de abertura do projeto? O termo de abertura do projeto (TAP) é um documento que formaliza o início de um projeto, confere autoridade ao gerente de projeto e agrupa todas as informações necessárias para a execução das atividades envolvidas;
 
 - Precisamos fazendo um brainstorm;
+
+- No **Moodle** no mínimo o relatorio final, modelo de bordo, e timesheet.
