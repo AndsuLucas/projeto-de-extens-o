@@ -15,3 +15,26 @@
 - Precisamos fazendo um brainstorm;
 
 - No **Moodle** no mínimo o relatorio final, modelo de bordo, e timesheet.
+
+## Encontro  15/02 9:00 até 11:00. Sábado.
+
+- Reconhecer o **tipo de projeto** é fundamental;
+### Metodologias
+
+> Notas gerais
+
+- Saiba dividir seu backlog;
+#### "Agil" - Scrum
+- Métodos **adaptativos**, ex: metodologias ágeis;
+- Sempre pensar em **backlog** como parte do produto entregue e não como ação. Focar no **entregável**. O backlog tem que ter o nome do entregável;
+- É papel do **scrum master**, identificar tarefas mais prioritarias e que podem 
+#### "Agil"  - Kanban
+- Características de rito e acompanhamento do projeto passivo (quadro de post-it);
+- A ideia é: **"ninguém pode falar que não tem o que fazer**;
+#### Waterfall
+- Temos o método **waterfall**;
+
+> PARA ELABORAR O TAP, ESTUDAR:
+
+ - matriz swot, gantt, smart, matriz de risco, eap (ver termos_para_estudar.png)
+ - Estudar **TAP**
